@@ -23,5 +23,3 @@ O projeto incorpora as seguintes tecnologias e ferramentas:
     OpenAPI (Swagger): Documentando a API de forma clara e acessível.
     MySQL: O banco de dados relacional escolhido para armazenar as informações do fórum.
     Railway: Plataforma utilizada para deploy e hospedagem da aplicação.
-
-O objetivo do ForumHub é não apenas cumprir o desafio da Alura, mas também servir como uma plataforma de aprendizado contínuo, permitindo que desenvolvedores aprimorem suas habilidades em Java e Spring, ao mesmo tempo que criam uma aplicação útil e funcional.
